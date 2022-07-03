@@ -10,7 +10,7 @@ public class Matrix {
 
     }
 
-    //creation of teh matrix
+    //creation of the matrix
     public void creation(){
         matrix= new int[rows][columns];
         for(int i=0; i<rows; i++){
